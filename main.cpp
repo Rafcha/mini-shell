@@ -51,5 +51,5 @@ int main() {
             cout << "unknown command" << endl;
         }
     }
-    
+    return 0;
 }
